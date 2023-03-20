@@ -1,0 +1,28 @@
+body{
+background-color: black;
+    background-color: whitesmoke;
+    font-family: Verdana;
+    text-align: center;
+    text-decoration-color: blue;
+
+}
+.container{
+    margin-left: 25%;
+    width: 50%;
+    height: 1000px ;
+    position: relative;
+   background-color: rgb(15, 207, 221);
+}
+#p1{
+    text-align: justify;
+     font-feature-settings: "smcp", "zero";
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#form{
+        background-color: #fff;
+        max-width: 70%;
+        max-height: 93.9%;
+        margin: 50px auto;
+        padding: 30px 20px;
+        box-shadow: 5px 50px 50px rgba(227, 7, 198, 0.832);
+}
